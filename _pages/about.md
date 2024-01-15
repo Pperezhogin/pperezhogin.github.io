@@ -18,6 +18,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0RT2NRMWX5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0RT2NRMWX5');
+</script>
+
 I am a Postdoctoral Associate at [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/), New York University, working with [Prof. Laure Zanna](https://laurezanna.github.io/), and as a part of [M2LInES](https://m2lines.github.io/) project. I am working on apllication of Machine Learning methods (generative ML, physics informed ML, equation discovery) to subgrid parameterizations of mesoscale eddies and their implementation to ocean models.
 
 Previously, I obtained my PhD at Marchuk Institute of Numerical Mathematics of the Russian Academy of Sciences ([INM RAS](https://www.inm.ras.ru/en/)) in Moscow, under a supervision of [Dr. Andrey Glazunov](http://old.inm.ras.ru/persons/gav.htm). My dissertation is devoted to development of stochastic and deterministic parameterizations of kinetic energy backscatter produced by mesoscale eddies with implementation to the NEMO ocean model ([In Russian](https://keldysh.ru/council/3/D00202403/perezhogin_pa_diss.pdf)).

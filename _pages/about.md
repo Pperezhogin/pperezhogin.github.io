@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Subgrid parameterizations for ocean models.
 
 profile:
   align: right
@@ -13,14 +13,13 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctorate associate at [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/), New York University, working with [Prof. Laure Zanna](https://laurezanna.github.io/), and as a part of [M2LInES](https://m2lines.github.io/) project. I am working on apllication of Machine Learning methods (generative ML, physics informed ML, equation discovery) to subgrid parameterizations of mesoscale eddies and their implementation to ocean models.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I obtained my PhD at Marchuk Institute of Numerical Mathematics of the Russian Academy of Sciences ([INM RAS](https://www.inm.ras.ru/en/)) in Moscow, under a supervision of [Dr. Andrey Glazunov](http://old.inm.ras.ru/persons/gav.htm). My dissertaion is devoted to development of stochastic and deterministic parameterizations of kinetic energy backscatter produced by mesoscale eddies with implementation to the NEMO ocean model ([In Russian](https://keldysh.ru/council/3/D00202403/perezhogin_pa_diss.pdf)).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

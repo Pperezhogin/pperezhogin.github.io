@@ -2,7 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: All publications (**19**), including peer-reviewed in english journals (**6**) and russian journals (**8**), preprints (**2**) and conference papers (**3**).
+description: description: All publications (<strong>19</strong>), including peer-reviewed in International journals (<strong>6</strong>) and Russian journals (<strong>8</strong>), preprints (<strong>2</strong>), and conference papers (<strong>3</strong>).
+
 nav: true
 nav_order: 1
 ---

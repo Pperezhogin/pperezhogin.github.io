@@ -47,6 +47,8 @@ nav_order: 2
 
 1. **[2020]** AGU fall meeting. Data Driven Parameterization of Mesoscale Eddies and Comparison with Kinetic Energy Backscatter Parameterizations in NEMO Ocean Model.
 
+1. **[2020]** The Conference dedicated to the memory of academician A.M. Obukhov, Moscow. LES parameterizations of quasi-2D turbulence designed for application in ocean models at intermediate resolution.
+
 1. **[2020]** **Poster**. ECMWF Annual seminar. Kinetic energy backscatter (KEB) parameterizations for ocean circulation models with intermediate resolution and their testing in NEMO ocean model.
 
 1. **[2020]** EGU General Assembly, Austria, Vienna. A new data-driven subgrid 2d turbulence parameterization and comparison with conventional kinetic energy backscatter parameterizations in NEMO ocean model.
@@ -76,4 +78,7 @@ nav_order: 2
 1. **[2017]** INM-UniFrankfurt workshop, Russia, Moscow. Stochastic and deterministic kinetic energy backscatter parameterizations for two-dimensional turbulence modeling.
 
 1. **[2016]** UK MetOffice – Inst. Of Numerical Mathematics RAS – Hydrometcentre of Russia seminar on atmospheric dynamical cores development, Russia, Moscow. Comparison of numerical advection schemes in two-dimensional turbulence simulation.
+
+
+
 

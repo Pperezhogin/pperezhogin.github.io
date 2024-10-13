@@ -17,6 +17,12 @@ nav_order: 2
   gtag('config', 'G-0RT2NRMWX5');
 </script>
 
+1. **[2024]** Center for Turbulence Research Summer Program (CTR SP) 2024. Development of subgrid parameterizations for ocean mesoscale eddies.
+
+1. **[2024]** CESM Ocean Model Working Group Meeting 2024. Data-driven parameterization of mesoscale eddies constrained with physics
+
+1. **[2024]** Ocean Sciences, New Orleans, US. Data-Driven Parameterization of Mesoscale Eddies in Primitive-Equation Ocean Model: Symbolic Regression
+
 1. **[2023]** Courant Atmosphere Ocean Science Colloquium, New York, US. Data-driven parameterizations of ocean mesoscale eddies.
 
 1. **[2023]** AGU Fall Meeting, San Francisco, US. Data-driven parameterization of mesoscale eddies in primitive-equation ocean model: symbolic regression.

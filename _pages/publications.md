@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: All publications (<strong>20</strong>), including peer-reviewed in international journals (<strong>6</strong>) and Russian journals (<strong>8</strong>); preprints (<strong>2</strong>), conference papers (<strong>3</strong>) and open source education/software (<strong>1</strong>).
+description: All publications (<strong>20</strong>), including peer-reviewed in international journals (<strong>8</strong>) and Russian journals (<strong>8</strong>); preprints (<strong>0</strong>), conference papers (<strong>3</strong>) and open source education/software (<strong>1</strong>).
 nav: true
 nav_order: 1
 ---

@@ -6,7 +6,7 @@ subtitle: Subgrid parameterizations for ocean models.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <a href='mailto:pperezhogin@gmail.com'>pperezhogin@gmail.com</a>

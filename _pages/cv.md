@@ -4,6 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: CV-14-Apr.pdf
+cv_pdf: CV-Oct-2.pdf
 description: See PDF for details.
 ---

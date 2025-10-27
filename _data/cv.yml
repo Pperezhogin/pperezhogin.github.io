@@ -8,12 +8,12 @@
       institution: Moscow Institute of Physics and Technology (MIPT)
       year: 2011-2017
 
-- title: Employment
-  type: time_table
-  contents:
-    - title: Research Associate
+   - title: Research Associate
       institution: Courant Institute of Mathematical Sciences, New York University
-      year: Oct 2025-Now
+      year: Oct 2025–Now
+    - title: Lead Scientist
+      institution: M2LInES Project (Multiscale Machine Learning In Coupled Earth System Modeling)
+      year: Oct 2025–Now
     - title: Postdoctoral Associate
       institution: Courant Institute of Mathematical Sciences, New York University
-      year: Dec 2021-Oct 2025
+      year: Dec 2021–Oct 2025

@@ -2,7 +2,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Marchuk Institute of Numerical Mathematics of the Russian Academy of Sciences (INM RAS)
+      institution: Marchuk Institute of Numerical Mathematics of the Russian Academy of Sciences
       year: 2017-2021
     - title: BSc and MSc
       institution: Moscow Institute of Physics and Technology (MIPT)
@@ -11,6 +11,9 @@
 - title: Employment
   type: time_table
   contents:
+    - title: Research Associate
+      institution: Courant Institute of Mathematical Sciences, New York University
+      year: Oct 2025-Now
     - title: Postdoctoral Associate
       institution: Courant Institute of Mathematical Sciences, New York University
-      year: 2021-Now
+      year: Dec 2021-Oct 2025
